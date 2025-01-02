@@ -15,4 +15,4 @@ For all the details of the implementation, the user is referred to the reference
 
 **Reference**
 
-F. Maggioni, A. Spinelli. (2024). _A Novel Robust Optimization Model for Nonlinear Support Vector Machine_. Submitted, under second revision. Preprint available at https://arxiv.org/abs/2306.06223
+F. Maggioni, A. Spinelli. (2024). _A Novel Robust Optimization Model for Nonlinear Support Vector Machine_. European Journal of Operational Research. https://doi.org/10.1016/j.ejor.2024.12.014
