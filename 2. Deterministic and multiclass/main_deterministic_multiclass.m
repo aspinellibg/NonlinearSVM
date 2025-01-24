@@ -5,7 +5,7 @@
 % % Francesca Maggioni and Andrea Spinelli (University of Bergamo, IT)
 
 % % Reference:
-% % Preprint available at https://arxiv.org/abs/2306.06223
+% % F. Maggioni, A. Spinelli. (2025). _A Novel Robust Optimization Model for Nonlinear Support Vector Machine_. European Journal of Operational Research, 322(1), 237-253. https://doi.org/10.1016/j.ejor.2024.12.014
 
 
 % % Case: deterministic and multiclass classifier
